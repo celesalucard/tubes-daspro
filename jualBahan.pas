@@ -1,3 +1,4 @@
+//emon jelek jakangnya jele'
 unit jualBahan
 
 interface
