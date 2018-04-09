@@ -1,4 +1,5 @@
 //emon jelek jakangnya jele'
+// adot jele ndut jele 
 unit jualBahan
 
 interface
